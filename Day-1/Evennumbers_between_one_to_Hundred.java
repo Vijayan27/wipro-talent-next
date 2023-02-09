@@ -1,4 +1,4 @@
-package dinesh;
+package vijayan;
 import java.util.Scanner;
 
 public class Evennumbers_between_one_to_Hundred{
