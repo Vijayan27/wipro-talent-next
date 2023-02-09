@@ -1,4 +1,4 @@
-package dinesh;
+package vijayan;
 import java.util.Scanner;
 
 public class hundred_to_zero{
