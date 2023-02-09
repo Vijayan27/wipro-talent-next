@@ -1,4 +1,4 @@
-package dinesh;
+package vijayan;
 import java.util.Scanner;
 
 public class oddnumbers_between_one_to_hundred{
