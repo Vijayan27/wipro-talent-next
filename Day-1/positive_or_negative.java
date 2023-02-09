@@ -1,4 +1,4 @@
-package dinesh;
+package vijayan;
 import java.util.Scanner;
 
 public class positive_or_negative{
